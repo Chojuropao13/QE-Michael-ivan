@@ -1,0 +1,9 @@
+API (Application Programming Interface) : suatu penghubung yg memungkinkan suatu aplikasi u/ berinteraksi dg aplikasi lainnya & berbagi data
+Tujuan API : u/ mempercepat proses development dg menyediakan function scr terpisah shg developer tdk perlu membuat fitur yg serupa
+REST (Representational State Transfer)
+Data yg digunakan dlm REST API umumnya brupa JSON
+Komponen REST API :
+Method : spt get, put, post, delete.
+URL (Base URL + path) : cara kita u/ melakukan request. URL ini memiliki kata kunci yg menunjukkan ke server apa yg kita coba lakukan (https://apitest.com/v2/payment
+Header : kumpulan field & value yg terkait dengan pemberian informasi tentang pesan ke penerima. Header jg berisi informasi autentikasi yg memberi tahu bahwa pesan tersebut sah
+Body : parameter apa yg dikirimkan ke server. Ini menentukan informasi yg di update, dibuat, ataupun di hapus
