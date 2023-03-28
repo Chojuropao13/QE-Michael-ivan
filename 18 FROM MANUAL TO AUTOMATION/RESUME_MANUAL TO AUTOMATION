@@ -1,0 +1,19 @@
+Manual testing		: sebuah testing yang dilakukan scr manual. Tujuan utama dr manual testing adlah u/ exploratory(u/ mengeksplor atau mengobservasi semua fitur2 yg telah dikembangkan pd sebuah aplikasi)
+Alasan menggunakan manual testing	:
+Exploratory : u/ mengeksplor atau mengobservasi semua fitur2 yg telah dikembangkan pd sebuah aplikasi
+Velocity : sangat cepat u/ dilakukan jika terdapat perubahan kecil pada sebuah aplikasi (bisa menguji fitur yang baru yg mengalami perubahan sedikit tadi secara langsung
+Bisa dilakukan pengujian usability : u/ memastikan sebuah aplikasi dpt digunakan dg nyaman oleh user
+
+
+Keuntungan manual testing :
+Kita bisa mendptkan feedback scr cepat & akurat krn tidak memerlukan script tertentu
+Lebih murah krn tdk perlu menyiapkan budget automation tool
+Manual testing sgt cocok untuk menguji perubahan yg sgt kecil
+Ga butuh waktu lama untuk rilis
+Kelemahan manual testing :
+Sering terjadi eror atau kesalahan, misal kelupaan
+Tidak bisa direkam, ketika kita akan menjalankan tes tersebut maka kita harus menjalankan tes tersebut lagi secara manual (data yg kita pake itu pasti beda lagi, gabisa di reuse lagi)
+Automation testing : sebuah pengujian atau testing yg dilakukan scr otomatis, caranya menggunakan automation tool. Contohnya ada Jmeter, selenium, catalon, dsb
+Tujuan utama dari AT : efficiency krn AT sgt cocok u/ mengeksekusi test case yg sgt banyak scr otomatis & AT bisa mengukur coverage u/ mengukur sbrp byk fitur yg kita uji
+
+
