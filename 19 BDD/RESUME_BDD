@@ -1,0 +1,13 @@
+Test Driven Development (TDD) : proses software development yg menerapkan penulisan test case sblm developer menuliskan production Codenya
+
+BDD (BEHAVIOR DRIVEN DEVELOPMENT) serupa dengan TDD : juga melakukan konsep test first, namun dg fokus yg berbeda, dalam BDD tes developer akan menuliskan berbagai skenario yg menjelaskan behavior sistem dr perspektif pengguna. Skenario menggunakan bhs yg mudah dipahami oleh seluruh stake holder dalam pengembangan sistem
+Tujuan utama BDD : u/ meningkatkan komunikasi & kolaborasi antara seluruh stake holder tim bisnis maupun maupun teknikal yg terlibat dlm pengembangan sistem. Hal ini dpt membantu memastikan bahwa fitur2 dlm sistem dpt dipahami dg baik oleh seluruh anggota tim.
+Prinsip dasar BDD : deskripsikan behavior dr sebuah sistem tanpa menjelaskan implementasinya scr rinci
+terdapat pemisahan antar keduanya dlm pendekatan BDD seluruh stake holder (teknikal/non) saling berkolaborasi u/ mendeskripsikan kebutuhan pengguna & kebutuhan fungsional sistem yg dituliskan melalui fitur file
+deskripsi yg ada di fitur file berperan sbg tes logic yg kemudian mjd dasar bagi quality assurance. Dlm menuliskan test script u/ implementasi pengujian & dasar bagi developer dlm menuliskan impelementation codenya untuk membangun sistem
+
+GERKHIN SYNTAX :
+Given — menjelaskan konteks dari skenario
+When — menjelaskan tindakan yang dilakukan oleh user
+Then — menjelaskan outcome dari tindakan yang dilakukan oleh user
+
