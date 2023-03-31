@@ -1,0 +1,20 @@
+
+1. Definisi dari software testing adalah proses memverifikasi sistem atau program komputer untuk memutuskan apakah memenuhi persyaratan yang ditentukan dan memberikan hasil yang diinginkan.
+   Tujuannya untuk mengidentifikasi apakah produk tersebut mengalami bug atau tidak.
+2. Ada beberapa skill yang dibutuhkan ketika menjadi software tester yaitu ada non teknikal skill dan teknikal skill. Untuk skill yang non teknikk yaitu
+    a) Analytical skill
+    b) Communication skill
+    c) Time management & organization skill
+    d) great attitude
+    e) passion
+    Kemudian ada teknikal skill yaitu :
+    a) memahami dasar-dasar command linux untuk melakukan automation/ menginstalasi suatu software
+    b) memahami test management tool : bagaimana pengujian produk harus dilakukan seperti test link sebagai salah satu contohnya
+    c) memahami tracking management tool : mengolah suatu proyek atau development software agar berjalan dengan efisien dan efektif
+    d) memahami automation testing tool : seperti karate sebagai salah satu contohnya
+ 3. Yang harus dilakukan ketika menjadi software tester
+    a) memahami kebutuhan dokumen u/ pembuatan sebuah sistem
+    b) membuat test case
+    c) menjalankan test cases
+    d) melaporkan & mentesting kembali jika ada bug
+    e) mengikuti meeting bersama stake holder yang lain
