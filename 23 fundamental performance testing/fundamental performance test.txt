@@ -1,0 +1,12 @@
+performance test : teknik non functional testing untuk menentukan parameter sistem dalam hal responsif dan stabilitas dibawah berbagai beban kerja.
+
+yang dilihat dari performance test adalah mengukur kualitas atribut dari sistem seperti stabilitas, ketahanan, dan penggunaan sumber daya.
+
+Pengukuran performance test:
+1) performa suatu aplikasi sampai suatu batas tertentu
+2) bukan merupakan functional test
+3) bisa dalam berbagai macam bentuk untuk memahami reliability, stability dan availability pada environmentnya
+
+perlu performance testing karena untuk dijadikan tolak ukur apakah sistem tersebut dapat mengakomodasi traffic yang ada. Tetapi performance testing itu mahal.
+
+Perhatian dalam Performance test adalah Throughtput dan response data
