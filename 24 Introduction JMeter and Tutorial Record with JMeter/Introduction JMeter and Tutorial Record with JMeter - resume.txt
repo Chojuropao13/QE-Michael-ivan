@@ -1,0 +1,9 @@
+Jmeter adalah perangkat lunak sumber terbuka untuk aplikasi dekstop java 100% murnmi digunakan untuk uji perlaku fungsional dan mengukur kinerja situs web.
+
+Jmeter besifat open source dan mudah gunakan GUI / non GUI
+
+beberapa komponen Jmeter
+- Listener : perekam data yang dihasilkan tes
+- Timers : fitur ini akan jalan duluansebelum semua fitur yang lain berjalan
+- Assertions : seperti assert pada API/Web/Testing merupakan kriteria tambahan apakah cocok atau tidak\
+- pre post processors : fitur yang memproses response data sebelumnya atau sesudah tes
