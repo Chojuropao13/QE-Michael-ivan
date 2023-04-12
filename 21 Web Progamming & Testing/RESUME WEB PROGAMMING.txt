@@ -1,0 +1,18 @@
+Frontend adalah bagian awal tampilan dari sebuah website dengan tujuan supaya user tertarik
+
+menggunakan : CSS, HTML, JS
+
+HTML singkatan dari Hypertext Markup Language digunakan untuk sebuah standar yang digunakan secara luas untuk menampilkan halaman web
+fungsi html : 
+1. Membuat Form HTML
+2. Membuat Struktur dari halaman website
+3. Membuat gambar dengan canvas
+
+Dokumentasi HTML :
+1.<!DOCTYPE html> mendeklarasikan dokumen ini sebagaui HTML5
+2.<html> elemen root dari halaman HTML
+3.<head> berisi informasi meta tentang dokumen
+4.<title> menentukan judul untuk dokumen
+5.<body> berisi konten halaman yang terlihat
+
+

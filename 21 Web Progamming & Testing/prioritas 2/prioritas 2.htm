@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Digital Library</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f2f2f2;
+    }
+    
+    h1 {
+      text-align: center;
+      color: black;
+    }
+    
+    h2 {
+      text-align: center;
+      color: black;
+    }
+    
+    form {
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      max-width: 500px;
+      margin: auto;
+    }
+    
+    label {
+      display: block;
+      margin-bottom: 5px;
+      color: black;
+    }
+    
+    input[type="text"], input[type="password"] {
+      width: 100%;
+      padding: 10px;
+      border-radius: 5px;
+      border: none;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      margin-bottom: 15px;
+      font-size: 16px;
+
+    }
+    
+    textarea {
+      width: 100%;
+      padding: 10px;
+      border-radius: 5px;
+      border: none;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      margin-bottom: 15px;
+      font-size: 16px;
+    }
+    
+    input[type="radio"] {
+      margin-right: 10px;
+color : black;
+    }
+    
+    button {
+      background-color: blue;
+      color: #fff;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      font-size: 16px;
+      cursor: pointer;
+    }
+    
+    button[type="submit"]:hover {
+      background-color: #666;
+	  padding: 10px 20px;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Welcome to Digital Library</h1>
+
+<h2>Create a new member</h2> 
+
+<form action="/index.htm">
+
+  <label for="name">Name:</label>
+  <input type="text" id="name" name="name">
+  
+  <label for="email">Email:</label>
+  <input type="text" id="email" name="email">
+  
+  <label for="password">Password:</label>
+  <input type="password" id="password" name="password">
+  
+  <label for="phone">Phone Number:</label>
+  <input type="tel" id="phone" name="phone">
+  
+  <label for="address">Address:</label>
+  <textarea name="address" rows="5"></textarea>
+
+  <label>Gender:</label>
+  <label for="male"><input type="radio" id="male" name="gender" value="male">Male</label>
+  <label for="female"><input type="radio" id="female" name="gender" value="female">Female</label>
+
+  <button type="submit">Submit</button>
+  
+</form>
+
+</body>
+</html>
